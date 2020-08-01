@@ -105,6 +105,9 @@ class Strategy extends Component {
         <div>thirdPrice:  {thirdPrice}    thirdShares:  {thirdShares}</div>
         <div>fourthPrice: {fourthPrice}   fourthShares:  {fourthShares}</div>
         <div>fifthPrice:  {fifthPrice}    fifthShares:  {fifthShares}</div>
+
+        <p>This is a very basic software that takes an entered stock name, price, and share quantity.
+        It then provides suggested moves to take at different increases in price. The model is based off the Golden Ratio found in Nature.</p>
       </div>
     )
   }
